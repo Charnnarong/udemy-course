@@ -4,7 +4,7 @@
   - ฟรี
 
 > การผจญภัยที่ท้าทาย ในโลกของภาษาโก (Golang : Google's Go)
-  - udemy จะลดสูงสุดที่ 75% ติดต่อเพื่อขอคูปองส่วนลดที่ได้ราคาถูกกว่า udemy ได้ที่ Line-ID: konecth
+  - https://www.udemy.com/golang-google-go/?couponCode=SPECIAL_OFFER
 
 
 ---
