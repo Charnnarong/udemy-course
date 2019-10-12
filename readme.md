@@ -4,7 +4,7 @@
   - ฟรี
 
 > การผจญภัยที่ท้าทาย ในโลกของภาษาโก (Golang : Google's Go)
-  - https://www.udemy.com/golang-google-go/?couponCode=SPECIAL_OFFER
+  - https://www.udemy.com/course/golang-google-go/?couponCode=SPECIAL_1200
 
 
 ---
