@@ -1,10 +1,6 @@
 ## คอร์สทั้งหมด
 
-> Understanding your first Hyperledger Fabric network 
-  - ฟรี
-
-> การผจญภัยที่ท้าทาย ในโลกของภาษาโก (Golang : Google's Go)
-  - https://www.udemy.com/course/golang-google-go/?couponCode=SPECIAL_1200
+https://charnnarong.github.io/
 
 
 ---
